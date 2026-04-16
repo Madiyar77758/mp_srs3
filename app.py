@@ -345,7 +345,7 @@ else:
             ),
             agent=finalizer_agent,
             context=[extract_task, audit_task, conditional_task],
-            human_input=True  # HITL
+            human_input=False  # HITL
         )
 
         # ---- ЗАПУСК ----
