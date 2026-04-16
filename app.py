@@ -189,7 +189,7 @@ else:
 
         # ---- LLM ----
         llm = LLM(
-            model="gemini-3-flash-preview",
+            model="gemini/gemini-3-flash-preview",
             api_key=api_key
         )
 
