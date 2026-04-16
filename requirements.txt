@@ -1,0 +1,9 @@
+streamlit
+python-dotenv
+crewai
+crewai-tools
+langchain-google-genai
+python-docx
+pdfplumber
+pypdf
+pydantic
